@@ -20,4 +20,4 @@ Navigate through the pages using the navigation bar:
 3. Add animations for better user experience.
 
 ## Hosting
-The website is hosted at: [GitHub Pages Link](https://yourusername.github.io/JullsRestaurant/)
+The website is hosted at: 
